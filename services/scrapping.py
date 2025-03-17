@@ -4,11 +4,19 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
 import pandas as pd
+import os
+from selenium import webdriver
 
 from config import *
 
-def scrap_pregao():
 
+
+
+
+
+def scrap_pregao():
+    # Definir um diretório temporário para o cache do Selenium
+    os.environ["SELENIUM_MANAGER_CACHE"] = "/tmp/selenium_cache"
     options = webdriver.ChromeOptions()
     options.add_argument("--headless") 
     driver = webdriver.Chrome(options=options)
