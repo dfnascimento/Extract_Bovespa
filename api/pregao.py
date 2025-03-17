@@ -16,7 +16,7 @@ file_path = os.path.join(parent_path, 'docs', 'pregao.yml')
 def get_pregao():
 
     df = scrap_pregao()
-
+    #comment
     try:
         df = df.to_json(orient='records', force_ascii=False, indent=4)
         return df, 200
