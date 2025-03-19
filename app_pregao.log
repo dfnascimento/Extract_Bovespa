@@ -1,0 +1,69 @@
+2025-03-18 20:28:00,100 - INFO - Iniciando o Script de Coleta de Dados do pregão da B3
+2025-03-18 20:28:00,100 - INFO - Iniciando o metodo de Raspagem dos dados do pregão da B3
+2025-03-18 20:28:00,100 - INFO - Endereço usadohttps://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:29:38,585 - INFO - Iniciando o Script de Coleta de Dados do pregão da B3
+2025-03-18 20:29:38,586 - INFO - Iniciando o metodo de Raspagem dos dados do pregão da B3
+2025-03-18 20:29:38,586 - INFO - Endereço usadohttps://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:29:50,101 - INFO - Raspagem realizada com sucesso
+2025-03-18 20:34:44,178 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:34:44,181 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:34:44,181 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:34:49,720 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 20:39:41,199 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:39:41,200 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:39:41,200 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:39:50,994 - INFO - Raspagem realizada com sucesso
+2025-03-18 20:39:51,014 - INFO - Arquivo pregao-b320250318203950.parquet gerado com sucesso
+2025-03-18 20:39:51,014 - INFO - Subindo arquivo no AWS S3
+2025-03-18 20:40:41,406 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:40:41,407 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:40:41,407 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:40:50,793 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 20:41:08,311 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:41:08,312 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:41:08,312 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:41:13,535 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 20:42:01,646 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:42:01,647 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:42:01,647 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:42:06,927 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 20:43:04,452 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:43:04,453 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:43:04,453 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:43:14,210 - INFO - Raspagem realizada com sucesso
+2025-03-18 20:43:14,226 - INFO - Arquivo pregao-b320250318204314.parquet gerado com sucesso
+2025-03-18 20:43:14,226 - INFO - Subindo arquivo no AWS S3
+2025-03-18 20:43:14,238 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-18 20:43:15,331 - INFO - Upload bem-sucedido: pregao-b320250318204314.parquet
+2025-03-18 20:51:35,759 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:51:35,759 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:51:35,760 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:51:41,249 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 20:52:00,433 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 20:52:00,434 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 20:52:00,435 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 20:52:06,025 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:02:27,146 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:02:27,146 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:02:27,146 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:02:32,459 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:02:40,110 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:02:40,111 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:02:40,111 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:02:45,358 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:03:29,213 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:03:29,214 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:03:29,214 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:03:34,521 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:04:06,958 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:04:06,959 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:04:06,959 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:04:12,241 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:06:33,483 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:06:33,484 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:06:33,484 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:06:38,760 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:06:47,644 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:06:47,644 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:06:47,645 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:06:52,928 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
