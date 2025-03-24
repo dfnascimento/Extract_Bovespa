@@ -46,7 +46,7 @@ def run():
     caminho_arquivo = os.path.join('./files/', nome_arquivo)
 
     date = df["Data"].iloc[0]
-    caminho_s3 = f"raw/Data={date}//{nome_arquivo}"
+    caminho_s3 = f"raw/Data={date}/{nome_arquivo}"
 
     df.to_parquet(caminho_arquivo, engine="pyarrow", index=False)
 
