@@ -67,3 +67,129 @@
 2025-03-18 21:06:47,644 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
 2025-03-18 21:06:47,645 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
 2025-03-18 21:06:52,928 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:25:22,478 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:25:22,486 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:25:22,486 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:25:41,760 - INFO - Raspagem realizada com sucesso
+2025-03-18 21:25:41,931 - INFO - Arquivo pregao-b3-20250318.parquet gerado com sucesso
+2025-03-18 21:25:41,936 - INFO - Subindo arquivo no AWS S3
+2025-03-18 21:25:41,976 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-18 21:25:43,843 - INFO - Upload bem-sucedido: s3://`tech-challenge-9813-6790-9291ket`/dados-b3/ano=2025/mes=3/dia=18/pregao.parquet
+2025-03-18 21:26:24,779 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:26:24,780 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:26:24,780 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:26:33,919 - INFO - Raspagem realizada com sucesso
+2025-03-18 21:26:33,934 - INFO - Arquivo pregao-b3-20250318.parquet gerado com sucesso
+2025-03-18 21:26:33,934 - INFO - Subindo arquivo no AWS S3
+2025-03-18 21:26:33,946 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-18 21:26:35,015 - INFO - Upload bem-sucedido: s3://tech-challenge-9813-6790-9291/dados-b3/ano=2025/mes=3/dia=18/pregao.parquet
+2025-03-18 21:33:13,332 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:33:13,332 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:33:13,333 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:33:18,908 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:33:29,988 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:33:29,989 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:33:29,989 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:33:39,445 - INFO - Raspagem realizada com sucesso
+2025-03-18 21:33:39,461 - INFO - Arquivo pregao-b3-20250318.parquet gerado com sucesso
+2025-03-18 21:33:39,461 - INFO - Subindo arquivo no AWS S3
+2025-03-18 21:33:39,471 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-18 21:33:40,570 - INFO - Upload bem-sucedido: ano=2025/mes=3/dia=18/pregao.parquet
+2025-03-18 21:36:09,888 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:36:09,889 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:36:09,889 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:36:15,120 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:36:23,288 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:36:23,288 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:36:23,288 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:36:28,435 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-18 21:37:49,388 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-18 21:37:49,388 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-18 21:37:49,389 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-18 21:37:49,389 - INFO - Raspagem realizada com sucesso
+2025-03-18 21:37:49,389 - INFO - Arquivo pregao-b3-20250318.parquet gerado com sucesso
+2025-03-18 21:37:49,389 - INFO - Subindo arquivo no AWS S3
+2025-03-18 21:37:49,401 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-18 21:37:50,470 - INFO - Upload bem-sucedido: ano=2025/mes=3/dia=18/pregao-b3-20250318.parquet
+2025-03-19 22:12:08,874 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:12:08,875 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:12:08,875 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:12:15,528 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:12:46,062 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:12:46,062 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:12:46,063 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:12:51,029 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:12:56,417 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:12:56,417 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:12:56,417 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:13:01,422 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:13:32,519 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:13:32,520 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:13:32,520 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:13:41,575 - INFO - Raspagem realizada com sucesso
+2025-03-19 22:13:41,667 - INFO - Arquivo pregao-b3-20250319.parquet gerado com sucesso
+2025-03-19 22:13:41,668 - INFO - Subindo arquivo no AWS S3
+2025-03-19 22:13:41,677 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-19 22:13:43,144 - INFO - Upload bem-sucedido: ano=2025/mes=3/dia=19/pregao-b3-20250319.parquet
+2025-03-19 22:17:12,712 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:17:12,713 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:17:12,713 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:17:17,967 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:18:19,483 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:18:19,483 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:18:19,484 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:18:24,789 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:18:29,813 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:18:29,813 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:18:29,814 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:18:38,977 - INFO - Raspagem realizada com sucesso
+2025-03-19 22:18:38,993 - INFO - Arquivo pregao-b3-20250319.parquet gerado com sucesso
+2025-03-19 22:18:38,993 - INFO - Subindo arquivo no AWS S3
+2025-03-19 22:18:39,004 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-19 22:18:43,144 - INFO - Upload bem-sucedido: raw/ano=2025/mes=3/dia=19/pregao-b3-20250319.parquet
+2025-03-19 22:47:14,808 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:47:14,811 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:47:14,811 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:47:20,028 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-19 22:47:25,071 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-19 22:47:25,072 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-19 22:47:25,072 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-19 22:47:34,131 - INFO - Raspagem realizada com sucesso
+2025-03-19 22:47:34,206 - INFO - Arquivo pregao-b3-20250319.parquet gerado com sucesso
+2025-03-19 22:47:34,206 - INFO - Subindo arquivo no AWS S3
+2025-03-19 22:47:34,215 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-19 22:47:35,343 - INFO - Upload bem-sucedido: raw/ano=2025/mes=3/dia=19/pregao-b3-20250319.parquet
+2025-03-20 23:30:48,127 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-20 23:30:48,128 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-20 23:30:48,128 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-20 23:30:53,882 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:30:58,946 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-20 23:30:58,947 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-20 23:30:58,947 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-20 23:31:03,809 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:16,825 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-20 23:32:16,825 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-20 23:32:16,825 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-20 23:32:22,144 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:27,388 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:32,374 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:50,203 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:55,157 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:32:59,982 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:33:04,742 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:33:09,648 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:33:14,283 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:33:19,249 - INFO - Ocorreu um Erro no processamento, nenhum dado foi raspado
+2025-03-20 23:33:31,645 - INFO - Raspagem realizada com sucesso
+2025-03-20 23:34:00,190 - INFO - Arquivo pregao-b3-20250320.parquet gerado com sucesso
+2025-03-20 23:34:00,190 - INFO - Subindo arquivo no AWS S3
+2025-03-20 23:34:00,199 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-20 23:34:01,506 - INFO - Upload bem-sucedido: raw/ano=2025/mes=3/dia=20/pregao-b3-20250320.parquet
+2025-03-21 21:31:58,698 - INFO - Iniciando o Script de Coleta de Dados do pregao da B3
+2025-03-21 21:31:58,699 - INFO - Iniciando o metodo de Raspagem dos dados do pregao da B3
+2025-03-21 21:31:58,700 - INFO - Endereco usado https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br
+2025-03-21 21:32:09,579 - INFO - Raspagem realizada com sucesso
+2025-03-21 21:32:09,673 - INFO - Arquivo pregao-b3-20250321.parquet gerado com sucesso
+2025-03-21 21:32:09,674 - INFO - Subindo arquivo no AWS S3
+2025-03-21 21:32:09,682 - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+2025-03-21 21:32:11,169 - INFO - Upload bem-sucedido: raw/ano=2025/mes=3/dia=21/pregao-b3-20250321.parquet

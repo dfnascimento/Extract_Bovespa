@@ -4,7 +4,7 @@ from services.scrapping import scrap_pregao
 from services.upload import upload_to_s3
 from config import *
 import os
-
+import pandas as pd
 
 def run():
 
@@ -24,18 +24,29 @@ def run():
 
     df = scrap_pregao(URL)
 
-    if df.empty:
+    while df.empty:
         logging.info('Ocorreu um Erro no processamento, nenhum dado foi raspado')
-        return
+        df = scrap_pregao(URL)
     
     logging.info('Raspagem realizada com sucesso')
 
-    caminho_s3 = f"s3://`{BUCKET_NAME}ket`/dados-b3/ano={datetime.now().year}/mes={datetime.now().month}/dia={datetime.now().day}/pregao.parquet"
+    df['Data'] = datetime.now().date()
+
+
+    df["Data"] = pd.to_datetime(df["Data"], errors='coerce')
+    df["Data"] = df["Data"].dt.strftime("%Y-%m-%d")
+    df["Qtde. Teórica"] = df["Qtde. Teórica"].replace({r'\.': ''}, regex=True) 
+    df["Qtde. Teórica"] = df["Qtde. Teórica"].astype(int)
+    df["Part. (%)"] = df["Part. (%)"].replace({r'\,': '.'}, regex=True) 
+    df["Part. (%)"] = df["Part. (%)"].astype(float)
 
     agora = datetime.now()
     data_hora_obj = agora.strftime("%Y%m%d")
     nome_arquivo = 'pregao-b3-' + data_hora_obj + '.parquet'
     caminho_arquivo = os.path.join('./files/', nome_arquivo)
+
+    date = df["Data"].iloc[0]
+    caminho_s3 = f"raw/Data={date}//{nome_arquivo}"
 
     df.to_parquet(caminho_arquivo, engine="pyarrow", index=False)
 
@@ -47,3 +58,5 @@ def run():
     
 
 run()
+
+
